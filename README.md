@@ -16,7 +16,7 @@ Exploring technology and creativity to build dynamic, responsive applications.
 ## 🚀 Skills
 - **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React.js
 - **Backend**: PHP, C#, .NET Web API, API development
-- **Languages**: Java, C, C++
+- **Languages**: PHP, JS, Java, C, C++
   
 ## 📫 Contact Me
 - **Email**: [prabud0401@gmail.com](mailto:prabud0401@gmail.com)
