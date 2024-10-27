@@ -1,6 +1,27 @@
-- 👋 Hi, I’m PrabuD
-- 👀 Exploring tech and creativity
-- 🌱 Learning new languages, diving into web development
-- 💞️ Open to collaborating on innovative tech projects
-- 📫 Reach me at [prabud0401@gmail.com](mailto:prabud0401@gmail.com) or [LinkedIn](https://www.linkedin.com/in/prabud0401/)
-- GitHub: [github.com/prabud0401](https://github.com/prabud0401)
+# PrabuD - Full-Stack Developer & Tech Enthusiast
+
+👋 **Hello! I’m PrabuD**  
+Exploring technology and creativity to build dynamic, responsive applications.
+
+---
+
+## 🌟 About Me
+- **💼 Expertise**: HTML, CSS, Tailwind CSS, JavaScript, React, PHP, C#
+- **🌐 Web APIs**: Proficient in .NET (C#), REST APIs with PHP, and React
+- **🔧 Backend Languages**: C, C++, Java
+- **🌱 Currently Learning**: Python for advanced development
+
+---
+
+## 🚀 Skills
+- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React.js
+- **Backend**: PHP, C#, .NET Web API, API development
+- **Languages**: Java, C, C++
+  
+## 📫 Contact Me
+- **Email**: [prabud0401@gmail.com](mailto:prabud0401@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/prabud0401/)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabud0401&show_icons=true&theme=radical)
