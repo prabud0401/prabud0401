@@ -1,4 +1,5 @@
-# Udayasooriyan Prabudeva (Prabu) - Python Developer & Full-Stack Engineer
+# Udayasooriyan Prabudeva
+## Python Developer & Full-Stack Engineer
 
 👋 **Hello! I’m Prabu**  
 A passionate software developer building dynamic applications, robust backend architectures, and exploring the frontiers of AI integration. 
