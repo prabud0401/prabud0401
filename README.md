@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=940&lines=Udayasooriyan+Prabudeva;AI+Automation%2C+Support+%26+Experience+Engineer;AI+Engineer+%7C+LLM+Apps+%7C+RAG+%7C+MCP;Python+%E2%80%A2+n8n+%E2%80%A2+CI%2FCD+%E2%80%A2+L2%2FL3+Support" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=940&lines=Udayasooriyan+Prabudeva;AI+Automation%2C+Support+%26+Experience+Engineer;AI+Engineer+%7C+LLM+Apps+%7C+RAG+%7C+MCP;Python+%E2%80%A2+CI%2FCD+%E2%80%A2+L2+Support" alt="Typing SVG" />
 
 <br/>
 
@@ -20,12 +20,12 @@
 
 ## 👋 About Me
 
-I'm **Prabu**, a Dubai-based engineer who owns systems end to end: **plan → design → build → deploy through CI/CD → monitor and maintain**. I automate recurring work with **Python and n8n**, build **LLM apps, RAG pipelines, AI agents and MCP servers**, and keep production healthy with **L2/L3 support under ITIL**.
+I'm **Prabu**, a Dubai-based engineer who owns systems end to end: **plan → design → build → deploy through CI/CD → monitor and maintain**. I automate recurring work with **Python**, build **LLM apps, RAG pipelines, AI agents and MCP servers**, and keep production healthy with **L2 support**.
 
 - 💼 **Currently:** AI Automation, Support and Experience Engineer @ **[Blue Ocean Strategic Partners](https://blueoceansp.ai)** (Remote, U.S.-based)
 - 🎓 **BSc (Hons) Computer Science**, University of Bedfordshire
 - 📍 **Dubai, UAE**
-- 🎯 **Open to:** AI Engineer · AI Automation Engineer · AI Solutions Engineer · L3 Support Engineer roles in the UAE, **available immediately**
+- 🎯 **Open to:** AI Engineer · AI Automation Engineer · AI Solutions Engineer · L2 Support Engineer roles in the UAE, **available immediately**
 
 ```python
 class Prabudeva:
@@ -33,9 +33,9 @@ class Prabudeva:
     company = "Blue Ocean Strategic Partners (Remote, U.S.-based)"
     location = "Dubai, UAE"
     lifecycle = ["plan", "design", "build", "deploy (CI/CD)", "monitor", "maintain"]
-    ai = ["LLM apps", "RAG", "AI agents", "MCP servers", "Python + n8n automation"]
-    support = "L2/L3 under ITIL"
-    open_to = ["AI Engineer", "AI Automation", "AI Solutions", "L3 Support"]
+    ai = ["LLM apps", "RAG", "AI agents", "MCP servers", "Python automation"]
+    support = "L2"
+    open_to = ["AI Engineer", "AI Automation", "AI Solutions", "L2 Support"]
     available = "Immediately"
 ```
 
@@ -72,7 +72,6 @@ class Prabudeva:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ### AI & Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-Pipelines-8B5CF6?style=flat-square)
@@ -84,11 +83,8 @@ class Prabudeva:
 ### DevOps, Cloud & Monitoring
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
@@ -96,7 +92,6 @@ class Prabudeva:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![WhatsApp Business API](https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
@@ -122,13 +117,13 @@ class Prabudeva:
 ```
 Plan → Design → Build → Deploy (CI/CD) → Monitor → Maintain
   ↑                                                    ↓
-  └──── Automate recurring fixes (Python · n8n) ←── L2/L3 support (ITIL)
+  └──── Automate recurring fixes (Python) ←── L2 support
 ```
 
 - **Own the full lifecycle**: requirements, architecture, code, pipelines, monitoring and runbooks
-- **Automate the repeatable**: recurring fixes, database backups and workflows with Python and n8n
+- **Automate the repeatable**: recurring fixes, database backups and workflows with Python
 - **AI-native delivery**: LLM apps, RAG, agents and MCP tools built for real business workflows
-- **Support that closes the loop**: L2 ticket handling with L3 escalation under ITIL, fed back into fixes
+- **Support that closes the loop**: L2 ticket handling, with recurring issues fed back into fixes
 
 ---
 
